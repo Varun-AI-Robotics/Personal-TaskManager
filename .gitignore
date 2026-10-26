@@ -1,0 +1,17 @@
+# Compiled Java files
+out/
+out-test/
+*.class
+
+# Local task data
+data/
+*.dat
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
